@@ -1,0 +1,9 @@
+data
+.idea
+bin
+lib
+include
+__pycache__
+pyvenv.cfg
+README orig.md
+/tests
